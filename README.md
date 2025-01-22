@@ -66,11 +66,6 @@ This repository showcases my coursework and projects from my studies in **Financ
 
 ---
 
-## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or email me at `your.email@example.com`.
-
----
-
 ## 📜 References
 - Yahoo Finance
 - Toronto Stock Exchange
